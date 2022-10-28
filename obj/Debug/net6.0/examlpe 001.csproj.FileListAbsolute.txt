@@ -1,0 +1,15 @@
+C:\Users\hazz_\Desktop\УЧЕБА\Семинары Знакомство с языком програмирования С#\Урок 2 Базовые алгоритмы\S2\examlpe 001\bin\Debug\net6.0\examlpe 001.exe
+C:\Users\hazz_\Desktop\УЧЕБА\Семинары Знакомство с языком програмирования С#\Урок 2 Базовые алгоритмы\S2\examlpe 001\bin\Debug\net6.0\examlpe 001.deps.json
+C:\Users\hazz_\Desktop\УЧЕБА\Семинары Знакомство с языком програмирования С#\Урок 2 Базовые алгоритмы\S2\examlpe 001\bin\Debug\net6.0\examlpe 001.runtimeconfig.json
+C:\Users\hazz_\Desktop\УЧЕБА\Семинары Знакомство с языком програмирования С#\Урок 2 Базовые алгоритмы\S2\examlpe 001\bin\Debug\net6.0\examlpe 001.dll
+C:\Users\hazz_\Desktop\УЧЕБА\Семинары Знакомство с языком програмирования С#\Урок 2 Базовые алгоритмы\S2\examlpe 001\bin\Debug\net6.0\examlpe 001.pdb
+C:\Users\hazz_\Desktop\УЧЕБА\Семинары Знакомство с языком програмирования С#\Урок 2 Базовые алгоритмы\S2\examlpe 001\obj\Debug\net6.0\examlpe 001.csproj.AssemblyReference.cache
+C:\Users\hazz_\Desktop\УЧЕБА\Семинары Знакомство с языком програмирования С#\Урок 2 Базовые алгоритмы\S2\examlpe 001\obj\Debug\net6.0\examlpe 001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hazz_\Desktop\УЧЕБА\Семинары Знакомство с языком програмирования С#\Урок 2 Базовые алгоритмы\S2\examlpe 001\obj\Debug\net6.0\examlpe 001.AssemblyInfoInputs.cache
+C:\Users\hazz_\Desktop\УЧЕБА\Семинары Знакомство с языком програмирования С#\Урок 2 Базовые алгоритмы\S2\examlpe 001\obj\Debug\net6.0\examlpe 001.AssemblyInfo.cs
+C:\Users\hazz_\Desktop\УЧЕБА\Семинары Знакомство с языком програмирования С#\Урок 2 Базовые алгоритмы\S2\examlpe 001\obj\Debug\net6.0\examlpe 001.csproj.CoreCompileInputs.cache
+C:\Users\hazz_\Desktop\УЧЕБА\Семинары Знакомство с языком програмирования С#\Урок 2 Базовые алгоритмы\S2\examlpe 001\obj\Debug\net6.0\examlpe 001.dll
+C:\Users\hazz_\Desktop\УЧЕБА\Семинары Знакомство с языком програмирования С#\Урок 2 Базовые алгоритмы\S2\examlpe 001\obj\Debug\net6.0\refint\examlpe 001.dll
+C:\Users\hazz_\Desktop\УЧЕБА\Семинары Знакомство с языком програмирования С#\Урок 2 Базовые алгоритмы\S2\examlpe 001\obj\Debug\net6.0\examlpe 001.pdb
+C:\Users\hazz_\Desktop\УЧЕБА\Семинары Знакомство с языком програмирования С#\Урок 2 Базовые алгоритмы\S2\examlpe 001\obj\Debug\net6.0\examlpe 001.genruntimeconfig.cache
+C:\Users\hazz_\Desktop\УЧЕБА\Семинары Знакомство с языком програмирования С#\Урок 2 Базовые алгоритмы\S2\examlpe 001\obj\Debug\net6.0\ref\examlpe 001.dll
